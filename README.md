@@ -5,6 +5,8 @@
 ## 👋 Introduction
 Hi guys... This repo is used to automatically count your juggling using an amazing deep learning computer vision state-of-the-art (SOTA) method called YOLOv8. I use some features of YOLOv8 such as Object Detection, Object Tracking, and Pose Detection. Please read my article below on Linked In for more information about step-by-step how to count juggles using YOLOv8.
 
+https://lnkd.in/gYJYM3HN
+
 ## Install
 Make sure you have Python on your local computer. I use Python with version 3.10. Run following dependencies:
 
